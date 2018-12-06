@@ -1,0 +1,287 @@
+[
+  {
+    "protifolios_id": 1,
+    "constituents": [
+      {
+        "weight": 3,
+        "instrument": {
+          "id": 1,
+          "name": "CSX corp",
+          "type": "Equity"
+        }
+      },
+      {
+        "weight": 17,
+        "instrument": {
+          "id": 2,
+          "name": "cummins Inc",
+          "type": "Equity"
+        }
+      },
+      {
+        "weight": 10,
+        "instrument": {
+          "id": 3,
+          "name": "Eaton Corp PLC",
+          "type": "Equity"
+        }
+      },
+      {
+        "weight": 10,
+        "instrument": {
+          "id": 4,
+          "name": "Fedx corp",
+          "type": "Equity"
+        }
+      },
+      {
+        "weight": 10,
+        "instrument": {
+          "id": 5,
+          "name": "Haris corp",
+          "type": "Equity"
+        }
+      },
+      {
+        "weight": 10,
+        "instrument": {
+          "id": 6,
+          "name": "Norfolk Southern Corp",
+          "type": "Bond"
+        }
+      },
+      {
+        "weight": 5,
+        "instrument": {
+          "id": 7,
+          "name": "General Dynamics",
+          "type": "Bond"
+        }
+      },
+      {
+        "weight": 15,
+        "instrument": {
+          "id": 8,
+          "name": "hal",
+          "type": "Bond"
+        }
+      },
+      {
+        "weight": 20,
+        "instrument": {
+          "id": 10,
+          "name": "USD CASH",
+          "type": "CASH"
+        }
+      }
+    ]
+  },
+  {
+    "protifolios_id": 2,
+    "constituents": [
+      {
+        "weight": 20,
+        "instrument": {
+          "id": 2,
+          "name": "cummins Inc",
+          "type": "Equity"
+        }
+      },
+      {
+        "weight": 10,
+        "instrument": {
+          "id": 3,
+          "name": "Eaton Corp PLC",
+          "type": "Equity"
+        }
+      },
+      {
+        "weight": 10,
+        "instrument": {
+          "id": 4,
+          "name": "Fedx corp",
+          "type": "Equity"
+        }
+      },
+      {
+        "weight": 10,
+        "instrument": {
+          "id": 5,
+          "name": "Haris corp",
+          "type": "Equity"
+        }
+      },
+      {
+        "weight": 10,
+        "instrument": {
+          "id": 6,
+          "name": "Norfolk Southern Corp",
+          "type": "Bond"
+        }
+      },
+      {
+        "weight": 20,
+        "instrument": {
+          "id": 8,
+          "name": "hal",
+          "type": "Bond"
+        }
+      },
+      {
+        "weight": 20,
+        "instrument": {
+          "id": 10,
+          "name": "USD CASH",
+          "type": "CASH"
+        }
+      }
+    ]
+  },
+  {
+    "protifolios_id": 3,
+    "constituents": [
+      {
+        "weight": 30,
+        "instrument": {
+          "id": 3,
+          "name": "Eaton Corp PLC",
+          "type": "Equity"
+        }
+      },
+      {
+        "weight": 10,
+        "instrument": {
+          "id": 4,
+          "name": "Fedx corp",
+          "type": "Equity"
+        }
+      },
+      {
+        "weight": 10,
+        "instrument": {
+          "id": 5,
+          "name": "Haris corp",
+          "type": "Equity"
+        }
+      },
+      {
+        "weight": 10,
+        "instrument": {
+          "id": 6,
+          "name": "Norfolk Southern Corp",
+          "type": "Bond"
+        }
+      },
+      {
+        "weight": 5,
+        "instrument": {
+          "id": 7,
+          "name": "General Dynamics",
+          "type": "Bond"
+        }
+      },
+      {
+        "weight": 15,
+        "instrument": {
+          "id": 8,
+          "name": "hal",
+          "type": "Bond"
+        }
+      },
+      {
+        "weight": 11,
+        "instrument": {
+          "id": 10,
+          "name": "USD CASH",
+          "type": "CASH"
+        }
+      },
+      {
+        "weight": 9,
+        "instrument": {
+          "id": 10,
+          "name": "USD CASH",
+          "type": "CASH"
+        }
+      }
+      
+    ]
+  },
+  {
+    "protifolios_id": 4,
+    "constituents": [
+      {
+        "weight": 3,
+        "instrument": {
+          "id": 1,
+          "name": "CSX corp",
+          "type": "Equity"
+        }
+      },
+      {
+        "weight": 17,
+        "instrument": {
+          "id": 2,
+          "name": "cummins Inc",
+          "type": "Equity"
+        }
+      },
+      {
+        "weight": 10,
+        "instrument": {
+          "id": 3,
+          "name": "Eaton Corp PLC",
+          "type": "Equity"
+        }
+      },
+      {
+        "weight": 10,
+        "instrument": {
+          "id": 4,
+          "name": "Fedx corp",
+          "type": "Equity"
+        }
+      },
+      {
+        "weight": 10,
+        "instrument": {
+          "id": 5,
+          "name": "Haris corp",
+          "type": "Equity"
+        }
+      },
+      {
+        "weight": 8,
+        "instrument": {
+          "id": 6,
+          "name": "Norfolk Southern Corp",
+          "type": "Bond"
+        }
+      },
+      {
+        "weight": 14,
+        "instrument": {
+          "id": 7,
+          "name": "General Dynamics",
+          "type": "Bond"
+        }
+      },
+      {
+        "weight": 8,
+        "instrument": {
+          "id": 8,
+          "name": "hal",
+          "type": "Bond"
+        }
+      },
+      {
+        "weight": 20,
+        "instrument": {
+          "id": 10,
+          "name": "USD CASH",
+          "type": "CASH"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+const types = {
+  SAVE_CONSTITUENT: "SAVE_CONSTITUENT",
+  DELETE_CONSTITUENT: "DELETE_CONSTITUENT",
+}
+
+export default types;
